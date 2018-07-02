@@ -34,7 +34,7 @@ Open a terminal and navigate to where you would like a new directory to live. I 
 
 ... [or learn about cloning repos](https://help.github.com/articles/cloning-a-repository/)
 
-git clone https://github.com/jlmoody/effective-goggles.git
+git clone https://github.com/jlmoody/vagrant-puppet-jenkins-server-demo.git
 
 2. Change directory:
 
