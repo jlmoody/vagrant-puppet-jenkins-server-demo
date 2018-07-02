@@ -38,7 +38,7 @@ git clone https://github.com/jlmoody/vagrant-puppet-jenkins-server-demo.git
 
 2. Change directory:
 
-cd effective-goggles
+cd vagrant-puppet-jenkins-server-demo
 
 3. Do the thing:
 
